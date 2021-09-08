@@ -18,11 +18,12 @@
 - Re-wrote a Django web application for management of experiment parameters using Vue3
 
 #### Algorithms and Optimization
-- Led R&D effort to optimize internal computation geometry routines, increasing performance by ~17x
-- Re-wrote routine for storing experiment parameters and samples in a Sqlite database, increasing performance by 1-2 orders of magnitude
+- Led R&D effort to optimize internal computational geometry routines, increasing performance by ~17x
+- Re-wrote routine for persisting experiment parameters and generated samples to a Sqlite database, increasing performance by 1-2 orders of magnitude
 
 #### Machine Learning
 - Created and fine-tuned a ResNet model which matched SOTA performance in SAR imagery classification
+- Contributed multiple modules to internal ML experiment framework
 
 
 ## Project Sought
