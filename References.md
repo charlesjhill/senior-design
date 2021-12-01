@@ -12,4 +12,4 @@
 
 ## Prior Research
 
-[Bridging a Gap in SAR-ATR: Training on Fully Synthetic and Testing on Measured Data](https://ieeexplore.ieee.org/document/9356129)
+### [Bridging a Gap in SAR-ATR: Training on Fully Synthetic and Testing on Measured Data](https://ieeexplore.ieee.org/document/9356129)
