@@ -4,7 +4,7 @@
 
 ### 1. [Project Description and Abstract](Project-Description.md)
 
-### 2. [User Interface Specification](User-Interace.md)
+### 2. [User Interface Specification](User-Interface.md)
 
 ### 3. [Test Plan and Results](Test-Results.md)
 
