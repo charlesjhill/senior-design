@@ -1,33 +1,25 @@
-# Senior Design | Impact of Train/Test Dataset Similarity on Computer Vision Model Performance
+# Senior Design | Impact of Train/Test Dataset Similarity on Synthetic Aperture Radar - Automatic Target Recognition (SAR-ATR) System Performance
 
 ## Table of Contents
 
 ### 1. [Project Description and Abstract](Project-Description.md)
 
-### 2. User Stories and Design Diagrams
+### 2. [User Interface Specification](User-Interace.md)
 
-#### 2.1 [User Stories](User_Stories.md)
+### 3. [Test Plan and Results](Test-Results.md)
 
-#### 2.2 [Design Diagrams](Design_Diagrams/Design_Diagrams.png)
+### 4. [User Manual](https://github.com/charlesjhill/senior-design/wiki)
 
-#### 2.3 [Design Diagram Legend](Design_Diagrams/Legend.md)
+### 5. [Spring Final PPT Presentation](Presentation/Slide-Deck.pdf)
 
-### 3. Project Tasks and Timeline
+### 6. [Final Expo Poster](<Presentation/Hill - Senior Design Poster.pdf>)
 
-#### 3.1 [Task List](Tasklist.md)
+### 7. Assessments
 
-#### 3.2 [Timeline](Timeline.md)
+#### 7.1 [Initial Self-Assessment](Homework_Essays/Senior_Design_Assessment.docx)
 
-#### 3.3 Effort Matrix (Not-relevant for a project with one student)
+#### 7.2 [Final Self-Assessment](<Homework_Essays/Final Self Assessment.docx>)
 
-### 4. [PPTX Presentation](Presentation/Presentation.pdf)
+### 8. [Summary of Hours and Justification](Hours-Summary.md)
 
-### 5. [Self-Assessment Essay](Homework_Essays/Senior_Design_Assessment.docx)
-
-### 6. [Professional Biography](Homework_Essays/Chase_Professional_Biography.md)
-
-### 7. Budget (There have no expenses to date)
-
-### 8. Appendices
-
-#### 8.1 [References](References.md)
+### 9. [Summary of Expenses](Expense-Summary.md)
