@@ -18,5 +18,5 @@ Synthetic Data Generation for Deep Computer Vision
 
 ## Project Abstract
 
-Collecting measured datasets for machine learning problems is logistically infeasible for many modalities and domains of research. Using synthetic data presents an opportunity to bring machine learning to these domains at an economic scale. The degree of similarity necessary between synthetic or altered data and measured data to achieve a particular level of performance has been henceforth unstudied, however. This research intends to fill this gap by examining this important, but under-studied problem.
+Collecting measured datasets for machine learning problems is infeasible for many domains of research. Using synthetic data presents an opportunity to bring machine learning to these domains economically. This research intends to study the degree of similarity necessary between synthetic data and measured data to achieve a particular level of performance, a henceforth largely unstudied problem.
 
